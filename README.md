@@ -35,7 +35,9 @@ The dashboard should provide real-time insights into key performance indicators 
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
+### Summary Overview
 
+![Sales Dashboard](https://github.com/anusharma2908/Power_BI/assets/157443748/dce83245-b903-4650-8ed9-4e1a08f08798)
 
 ### Steps followed 
 
