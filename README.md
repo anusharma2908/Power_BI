@@ -1,5 +1,8 @@
 # Car Sales - Dashboard
 
+# Dashboard Overview
+![image](https://github.com/anusharma2908/Power_BI/assets/157443748/20e1b9ad-b0e3-4c9a-a4ce-368bc3036722)
+
 ## Background: Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
 
 ## Objective: The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
